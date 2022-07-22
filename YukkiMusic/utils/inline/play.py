@@ -11,7 +11,7 @@ import random
 
 from pyrogram.types import InlineKeyboardButton
 
-/* selections = [
+selections = [
     "▁▄▂▇▄▅▄▅▃",
     "▁▃▇▂▅▇▄▅▃",
     "▃▁▇▂▅▃▄▃▅",
@@ -102,7 +102,7 @@ def stream_markup(_, videoid, chat_id):
             )
         ],
     ]
-    return buttons */
+    return buttons 
 
 
 def telegram_markup(_, chat_id):
