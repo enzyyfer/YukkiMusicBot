@@ -75,7 +75,7 @@ admin_34 : "Gagal mencari aliran saat ini."
 
 # Start
 start_1 : "Terima kasih telah menerima saya di {0}.\n{1} Saya Masih Berfungsi.\n\nUntuk bantuan atau bantuan apa pun, periksa Group dan Channel Support kami."
-start_2 : "Halo👋, Nama saya {0} 🤖.\n\nSaya bot streaming telegram dengan beberapa fitur yang berguna. Platform pendukung seperti Youtube dan Spotify.\n\nJangan ragu untuk menambahkan saya ke grupmu"
+start_2 : "Halo👋, Nama saya {0}.\n\nSaya bot streaming telegram dengan beberapa fitur yang berguna. Platform pendukung seperti\n\n1.Youtube\n\n2.Spotify.\n\nJangan ragu untuk menambahkan saya ke grupmu.Untuk melaporkan Masalah pada bot ini klik /start pada bot."
 start_3 : "Selamat datang di {0}\n\nSaya tidak memerlukan **izin admin** untuk bekerja ( sampai diminta ).\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
 start_4 : "Hei, lihat Tuan saya {0}[{1}] baru saja bergabung dengan obrolan Anda."
 start_5 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
@@ -248,7 +248,7 @@ L_B_1 : "🚀 Lihat Lirik Sekarang"
 # Start
 S_B_1 : "🗒 Perintah"
 S_B_2 : "🔧 Pengaturan"
-S_B_3 : "👥 Group"
+S_B_3 : "⚠️ Laporkan Masalah"
 S_B_4 : "⚡ Channel"
 S_B_5 : "✚ Tambahkan ke Group"
 S_B_6 : "⚡ Repository"
